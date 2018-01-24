@@ -4,6 +4,4 @@ This is a really awesome website
 
 
 
-Now editing on update-readme branch
-
-Updated locally
+Updated made on Master on Github before rebase
