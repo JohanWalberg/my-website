@@ -9,3 +9,8 @@ Updated made on Master on Github before rebase
 Repository Purpose
 
 this file is just a readme file.
+
+## Purpose
+
+The purpose of this file is to provide exaples
+on how to use Git and Github together.
